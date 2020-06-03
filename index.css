@@ -1,0 +1,63 @@
+*{
+    box-sizing:border-box;
+    padding:0;
+    margin:0;
+    max-width:100%;
+    border:1px solid grey;
+  }
+
+.top{
+    width: 10%;
+    border-radius: 200px;
+    
+}
+nav{
+    text-align: center;
+}
+nav ul li{
+    
+    display: inline-block;
+    color: white;
+    padding: .5% 1%;
+    border-radius: 10px;
+    margin: 0 5% 5% 5%;
+    
+}
+nav a {
+    text-decoration: none;
+    color:white;
+}
+.orange {
+    background-color: orangered;
+}
+.blue {
+    background-color: cyan;
+}
+.yellow {
+    background-color: gold;
+}
+.bottom {
+    height: 200px;
+    
+}
+header {
+    display: inline-block;
+}
+.fire {
+    width: 50%;
+}
+.car {
+    width: 50%;
+}
+section {
+    width: 90%;
+    background-color: peachpuff;
+    color:white;
+    padding: 1% 2%;
+    margin: 0 auto;
+}
+.middle {
+    text-align: center;
+    width: 20%;
+    margin: 0 auto;
+}
